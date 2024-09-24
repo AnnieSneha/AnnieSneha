@@ -1,6 +1,5 @@
 # Hi 👋, I'm Annie Sneha A T
 ✨ Passionate about Software Testing and Automation ✨  
-Coding | Automation | Problem Solving
 
 🌱 I’m currently learning Mobile Testing, API Testing and Performance Testing.
 
@@ -21,8 +20,7 @@ Coding | Automation | Problem Solving
 ---
 
 ## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-red)![Selenium](https://img.shields.io/badge/-Selenium-green)![Cypress](https://img.shields.io/badge/-Cypress-black)![Postman](https://img.shields.io/badge/-Postman-orange)![Mobile Testing](https://img.shields.io/badge/-Mobile_Testing-lightgrey)![API Testing](https://img.shields.io/badge/-API_Testing-lightgrey)![SQL](https://img.shields.io/badge/-SQL-orange)![Git](https://img.shields.io/badge/-Git-black)![Jenkins](https://img.shields.io/badge/-Jenkins-blue)
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-red) ![Selenium](https://img.shields.io/badge/-Selenium-green) ![Cypress](https://img.shields.io/badge/-Cypress-black) ![Postman](https://img.shields.io/badge/-Postman-orange) ![Mobile Testing](https://img.shields.io/badge/-Mobile_Testing-lightgrey) ![API Testing](https://img.shields.io/badge/-API_Testing-lightgrey) ![SQL](https://img.shields.io/badge/-SQL-orange) ![Git](https://img.shields.io/badge/-Git-black) ![Jenkins](https://img.shields.io/badge/-Jenkins-blue)
 
 ---
 
@@ -32,18 +30,18 @@ Coding | Automation | Problem Solving
 ---
 ## Projects 
 
-### 1. ![Functional Testing Project](https://github.com/AnnieSneha/CW_B37_Project_Manual.git)
+1. ![Functional Testing Project](https://github.com/AnnieSneha/CW_B37_Project_Manual.git)
 - Tools: **Git**, **Excel**
 - Prepared comprehensive test plans, test scenarios, and test cases focused on checkout functionality.
 - Authored detailed bug reports and summary reports to ensure clear communication of issues.
 - Actively contributed to the creation of test documentation to streamline the testing process.
 
-### 2. ![Cypress JavaScript Automation](https://github.com/AnnieSneha/CW_B37_Project_Cypress.git)
+2. ![Cypress JavaScript Automation](https://github.com/AnnieSneha/CW_B37_Project_Cypress.git)
 - Tools: **Cypress**, **JavaScript**, **Git**
 - Developed automated test scripts for the 'Add to Cart' functionality using the Page Object Model and Cucumber framework.
 - Utilized Cypress for robust end-to-end testing, ensuring high reliability and coverage.
 
-### 3. ![Selenium Java using POM and Cucumber Framwork](https://github.com/AnnieSneha/CW_ProjectB38_.git)
+3. ![Selenium Java using POM and Cucumber Framwork](https://github.com/AnnieSneha/CW_ProjectB38_.git)
 - Tools: **Git**, **Java**, **Selenium**
 - Automated the 'Apparel and Accessories' module using Selenium, ensuring structured, maintainable test scripts.
 - Applied Page Object Model (POM) and Cucumber frameworks for comprehensive test coverage.
