@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/fa90823f-6fd3-4555-9d3c-be79a4238924)
+<img src="https://github.com/user-attachments/assets/fa90823f-6fd3-4555-9d3c-be79a4238924" alt="image" width="700"/>
+
 
 <div align="center">
     <h1>Hi 👋, I'm Annie Sneha A T</h1>
