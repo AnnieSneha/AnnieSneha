@@ -30,19 +30,19 @@
 ---
 ## Projects 
 
-1. ![Functional Testing Project](https://github.com/AnnieSneha/CW_B37_Project_Manual.git)
+![Functional Testing Project](https://github.com/AnnieSneha/CW_B37_Project_Manual.git)
 - Tools: **Git**, **Excel**
 - Prepared comprehensive test plans, test scenarios, and test cases focused on checkout functionality.
 - Authored detailed bug reports and summary reports to ensure clear communication of issues.
 - Actively contributed to the creation of test documentation to streamline the testing process.
 
-2. ![Cypress JavaScript Automation](https://github.com/AnnieSneha/CW_B37_Project_Cypress.git)
+![Cypress JavaScript Automation](https://github.com/AnnieSneha/CW_B37_Project_Cypress.git)
 - Tools: **Cypress**, **JavaScript**, **Git**
 - Developed automated test scripts for the 'Add to Cart' functionality using the Page Object Model and Cucumber framework.
 - Utilized Cypress for robust end-to-end testing, ensuring high reliability and coverage.
 
-3. ![Selenium Java using POM and Cucumber Framwork](https://github.com/AnnieSneha/CW_ProjectB38_.git)
-- Tools: **Git**, **Java**, **Selenium**
+![Selenium Java using POM and Cucumber Framwork](https://github.com/AnnieSneha/CW_ProjectB38_.git)
+- Tools: **Git**, **Java**, **Selenium**,**BDD**
 - Automated the 'Apparel and Accessories' module using Selenium, ensuring structured, maintainable test scripts.
 - Applied Page Object Model (POM) and Cucumber frameworks for comprehensive test coverage.
 - Integrated with TestNG, applied explicit and implicit waits, and generated Extent Reports for detailed test execution insights.
