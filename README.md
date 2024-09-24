@@ -35,9 +35,10 @@ Coding | Automation | Problem Solving
 ![trophy](https://github-profile-trophy.vercel.app/?username=AnnieSneha&theme=darkhub&no-bg=true&no-frame=true)
 
 
-## Projects
+## Projects 
 
-### 1. **QAfox.com (Manual Testing)**
+### 1. ![Functiona Testing Project]([https://github-profile-trophy.vercel.app/?username=AnnieSneha&theme=darkhub&no-bg=true&no-frame=true](https://github.com/AnnieSneha/CW_B37_Project_Manual.git))
+
 - Tools: **Git**, **Excel**
 - Prepared comprehensive test plans, test scenarios, and test cases focused on checkout functionality.
 - Authored detailed bug reports and summary reports to ensure clear communication of issues.
