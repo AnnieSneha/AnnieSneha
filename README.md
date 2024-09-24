@@ -27,12 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-![Annie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnieSneha&show_icons=true&theme=radical)
-
----
-## Projects 
-
 ## Projects
 
 [![Functional Testing Project](https://img.shields.io/badge/Functional%20Testing%20Project-181717?style=for-the-badge&logo=github)](https://github.com/AnnieSneha/CW_B37_Project_Manual)
@@ -52,6 +46,10 @@
 - Applied Page Object Model (POM) and Cucumber frameworks for comprehensive test coverage.
 - Integrated with TestNG, applied explicit and implicit waits, and generated Extent Reports for detailed test execution insights.
 
+---
+
+## 📊 GitHub Stats:
+![Annie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnieSneha&show_icons=true&theme=radical)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AnnieSneha&theme=darkhub&no-bg=true&no-frame=true)
 
