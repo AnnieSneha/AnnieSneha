@@ -33,25 +33,22 @@
 ---
 ## Projects 
 
-![Functional Testing Project](https://github.com/AnnieSneha/CW_B37_Project_Manual.git)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AnnieSneha/CW_B37_Project_Manual.git) ![Functional Testing Project](https://github.com/AnnieSneha/CW_B37_Project_Manual/raw/main/path-to-your-image.jpg)
 - Tools: **Git**, **Excel**
 - Prepared comprehensive test plans, test scenarios, and test cases focused on checkout functionality.
 - Authored detailed bug reports and summary reports to ensure clear communication of issues.
 - Actively contributed to the creation of test documentation to streamline the testing process.
 
-![Cypress JavaScript Automation](https://github.com/AnnieSneha/CW_B37_Project_Cypress.git)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AnnieSneha/CW_B37_Project_Cypress.git) ![Cypress JavaScript Automation](https://github.com/AnnieSneha/CW_B37_Project_Cypress/raw/main/path-to-your-image.jpg)
 - Tools: **Cypress**, **JavaScript**, **Git**
 - Developed automated test scripts for the 'Add to Cart' functionality using the Page Object Model and Cucumber framework.
 - Utilized Cypress for robust end-to-end testing, ensuring high reliability and coverage.
 
-![Selenium Java using POM and Cucumber Framwork](https://github.com/AnnieSneha/CW_ProjectB38_.git)
-- Tools: **Git**, **Java**, **Selenium**,**BDD**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AnnieSneha/CW_ProjectB38_.git) ![Selenium Java using POM and Cucumber Framework](https://github.com/AnnieSneha/CW_ProjectB38_/raw/main/path-to-your-image.jpg)
+- Tools: **Git**, **Java**, **Selenium**, **BDD**
 - Automated the 'Apparel and Accessories' module using Selenium, ensuring structured, maintainable test scripts.
 - Applied Page Object Model (POM) and Cucumber frameworks for comprehensive test coverage.
 - Integrated with TestNG, applied explicit and implicit waits, and generated Extent Reports for detailed test execution insights.
 
----
-
-## 🏆 GitHub Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=AnnieSneha&theme=darkhub&no-bg=true&no-frame=true)
 
