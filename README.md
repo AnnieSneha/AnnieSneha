@@ -1,8 +1,9 @@
-https://www.google.com/imgres?q=software%20testing%20and%20automation%20for%20background%20image&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fsoftware-testing-banner-web-icon-260nw-2219991321.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fsoftware-testing-banner&docid=kgV0Hfbu4fzwCM&tbnid=lc5UHUkrQVvIoM&vet=12ahUKEwjCuoOss9uIAxV82jgGHZYBIpQQM3oECBgQAA..i&w=850&h=280&hcb=2&ved=2ahUKEwjCuoOss9uIAxV82jgGHZYBIpQQM3oECBgQAA
+![image](https://github.com/user-attachments/assets/fa90823f-6fd3-4555-9d3c-be79a4238924)
+
 <div align="center">
     <h1>Hi 👋, I'm Annie Sneha A T</h1>
+    <p>✨ Passionate about Software Testing and Automation ✨ </p>
 </div>
-✨ Passionate about Software Testing and Automation ✨  
 
 🌱 I’m currently learning Mobile Testing, API Testing and Performance Testing.
 
