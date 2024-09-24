@@ -33,22 +33,25 @@
 ---
 ## Projects 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AnnieSneha/CW_B37_Project_Manual.git) ![Functional Testing Project](https://github.com/AnnieSneha/CW_B37_Project_Manual/raw/main/path-to-your-image.jpg)
+## Projects
+
+[![Functional Testing Project](https://img.shields.io/badge/Functional%20Testing%20Project-181717?style=for-the-badge&logo=github)](https://github.com/AnnieSneha/CW_B37_Project_Manual)
 - Tools: **Git**, **Excel**
 - Prepared comprehensive test plans, test scenarios, and test cases focused on checkout functionality.
 - Authored detailed bug reports and summary reports to ensure clear communication of issues.
 - Actively contributed to the creation of test documentation to streamline the testing process.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AnnieSneha/CW_B37_Project_Cypress.git) ![Cypress JavaScript Automation](https://github.com/AnnieSneha/CW_B37_Project_Cypress/raw/main/path-to-your-image.jpg)
+[![Cypress JavaScript Automation](https://img.shields.io/badge/Cypress%20JavaScript%20Automation-181717?style=for-the-badge&logo=github)](https://github.com/AnnieSneha/CW_B37_Project_Cypress)
 - Tools: **Cypress**, **JavaScript**, **Git**
 - Developed automated test scripts for the 'Add to Cart' functionality using the Page Object Model and Cucumber framework.
 - Utilized Cypress for robust end-to-end testing, ensuring high reliability and coverage.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AnnieSneha/CW_ProjectB38_.git) ![Selenium Java using POM and Cucumber Framework](https://github.com/AnnieSneha/CW_ProjectB38_/raw/main/path-to-your-image.jpg)
+[![Selenium Java using POM and Cucumber Framework](https://img.shields.io/badge/Selenium%20Java%20using%20POM%20and%20Cucumber%20Framework-181717?style=for-the-badge&logo=github)](https://github.com/AnnieSneha/CW_ProjectB38_)
 - Tools: **Git**, **Java**, **Selenium**, **BDD**
 - Automated the 'Apparel and Accessories' module using Selenium, ensuring structured, maintainable test scripts.
 - Applied Page Object Model (POM) and Cucumber frameworks for comprehensive test coverage.
 - Integrated with TestNG, applied explicit and implicit waits, and generated Extent Reports for detailed test execution insights.
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AnnieSneha&theme=darkhub&no-bg=true&no-frame=true)
 
