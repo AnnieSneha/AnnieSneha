@@ -34,10 +34,10 @@ Coding | Automation | Problem Solving
 ## 🏆 GitHub Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=AnnieSneha&theme=darkhub&no-bg=true&no-frame=true)
 
-
+---
 ## Projects 
 
-### 1. ![Functiona Testing Project]([https://github-profile-trophy.vercel.app/?username=AnnieSneha&theme=darkhub&no-bg=true&no-frame=true](https://github.com/AnnieSneha/CW_B37_Project_Manual.git))
+### 1. ![Functional Testing Project](https://github.com/AnnieSneha/CW_B37_Project_Manual.git)
 
 - Tools: **Git**, **Excel**
 - Prepared comprehensive test plans, test scenarios, and test cases focused on checkout functionality.
