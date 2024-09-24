@@ -15,25 +15,24 @@ Coding | Automation | Problem Solving
 ---
 
 ## Connect with me:
-- [GitHub](https://github.com/AnnieSneha)
-- [LinkedIn](https://linkedin.com/in/anniesneha2000)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AnnieSneha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anniesneha2000)
 
 ---
 
-## Languages and Tools:
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-- ![Python](https://img.shields.io/badge/-Python-blue)
-- ![Java](https://img.shields.io/badge/-Java-red)
-- ![Selenium](https://img.shields.io/badge/-Selenium-green)
-- ![Cypress](https://img.shields.io/badge/-Cypress-black)
-- ![Postman](https://img.shields.io/badge/-Postman-orange)
-- ![Mobile Testing](https://img.shields.io/badge/-Mobile_Testing-lightgrey)
-- ![API Testing](https://img.shields.io/badge/-API_Testing-lightgrey)
-- ![SQL](https://img.shields.io/badge/-SQL-orange)
-- ![Git](https://img.shields.io/badge/-Git-black)
-- ![Jenkins](https://img.shields.io/badge/-Jenkins-blue)
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats:
+![Annie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnieSneha&show_icons=true&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies:
+![trophy](https://github-profile-trophy.vercel.app/?username=AnnieSneha&theme=darkhub&no-bg=true&no-frame=true)
+
 
 ## Projects
 
