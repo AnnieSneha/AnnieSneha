@@ -4,7 +4,7 @@
     <p>✨ Passionate about Software Testing and Automation ✨ </p>
 </div>
 
-🌱 I’m currently learning Mobile Testing, API Testing and Performance Testing.
+🌱 I’m currently working as a QA Engineer at NoBroker.
 
 💬 Ask me about Manual Testing, Selenium, Cypress, Java, JavaScript, Python, SQL, API Testing, Mobile Testing
 
